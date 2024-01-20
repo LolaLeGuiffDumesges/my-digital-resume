@@ -386,6 +386,7 @@ p{
     #profile{
         display: grid;
         grid-template-columns: 1fr;
+        padding-left: 10%;
     }
 
     #details{
@@ -426,6 +427,10 @@ p{
 
     #competence{
         background-image: none;
+    }
+
+    #competence h2{
+        font-size: 47px;
     }
 
     .img1, .img2, .img3, .img4, .img6, .img7, .img8{
